@@ -1,6 +1,6 @@
 # Valley 
 
-*Valley* is an app with libraries for working with bitcoin transactions.
+*Valley* is an app for working with bitcoin in demos, as a standalone and via libraries with Jupyter notebook.
 
 ---
 
